@@ -1,6 +1,6 @@
 {
-  "name": "test-app",
-  "version": "0.1.0",
+  "name": "npm-mod-test",
+  "version": "1.0.1",
   "private": true,
   "dependencies": {
     "react": "^16.0.0",
@@ -12,5 +12,23 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "[![CircleCI](https://circleci.com/gh/ccPrathap/create-react-app-setup.svg?style=svg)](https://circleci.com/gh/ccPrathap/create-react-app-setup)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djeelani/npm-mod-test.git"
+  },
+  "keywords": [
+    "npm",
+    "mod",
+    "test",
+    "html"
+  ],
+  "author": "Jeelani <jeelanibasha.dargasabgari@cognizant.com> (http://test-npm.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djeelani/npm-mod-test/issues"
+  },
+  "homepage": "https://github.com/djeelani/npm-mod-test#readme"
 }
